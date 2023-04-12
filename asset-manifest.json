@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TracknSave/static/css/main.e9f44403.css",
+    "main.js": "/TracknSave/static/js/main.94197ffb.js",
+    "index.html": "/TracknSave/index.html",
+    "main.e9f44403.css.map": "/TracknSave/static/css/main.e9f44403.css.map",
+    "main.94197ffb.js.map": "/TracknSave/static/js/main.94197ffb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9f44403.css",
+    "static/js/main.94197ffb.js"
+  ]
+}
