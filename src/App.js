@@ -6,6 +6,8 @@ import { TransactionList } from './components/TransactionList';
 import { AddTransaction } from './components/AddTransaction';
 import { GlobalProvider } from './context/GlobalState';
 
+document.title = "TracknSave"
+
 function App() {
   return (
     <GlobalProvider>
